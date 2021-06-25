@@ -1,6 +1,7 @@
 Create a project to host our infrastructure.
 Create a terrafrom (main.tf, variables.tf) files in directory.
 Enable the Cloud Billing Budget API.
+Enable google workspace alert center API
 Add service account details (credentials.json) to varaibles.tf
 
 
